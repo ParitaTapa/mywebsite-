@@ -1,10 +1,11 @@
+
 <html>
   <head>
     <title>ตารางของฉัน</title>
   </head>
   <body>
     <table border="1">
-      <tr>
+      </tr>
         <th>ลำดับ</th>
         <th>ชื่อ - นามสกุล</th>
         <th>ชื่อเล่น</th>
