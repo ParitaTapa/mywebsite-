@@ -39,7 +39,7 @@
         <td>5</td>
         <td>จอน จองกุก</td>
         <td>จองกุก</td>
-        <td><a href="https://upload.wikimedia.org/wikipedia/commons/4/40/Jungkook_x_Samsung_Galaxy_August_2021.png" width="100px"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Jungkook_x_Samsung_Galaxy_August_2021.png" width="100px"></td>
         <td><a href="https://twitter.com/bts_twt?s=21">twitter</a></td>
         <tr>
         <td>6</td>
