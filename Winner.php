@@ -37,9 +37,9 @@
         <td><a href="https://twitter.com/BLACKPINK">twitter</a></td>
         <tr>
         <td>5</td>
-        <td>Pack Jimin</td>
-        <td>Jimin</td>
-        <td><a href="https://i.pinimg.com/564x/7e/3b/0c/7e3b0c3bfb79e5ca7de14174a7a2ea84.jpg" width="100px"></td>
+        <td>จอน จองกุก</td>
+        <td>จองกุก</td>
+        <td><a href="https://upload.wikimedia.org/wikipedia/commons/4/40/Jungkook_x_Samsung_Galaxy_August_2021.png" width="100px"></td>
         <td><a href="https://twitter.com/bts_twt?s=21">twitter</a></td>
         <tr>
         <td>6</td>
