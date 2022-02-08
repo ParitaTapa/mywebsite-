@@ -13,10 +13,10 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>kim jisoo</td>
-        <td>jisoo</td>
-        <td><img src="https://i.pinimg.com/originals/c5/0a/46/c50a46f12c99102d113ed344fa6390d0.jpg" width="100px"></td>
-        <td><a href="https://twitter.com/BLACKPINK">twitter</a></td>
+        <td>แทฮยอง</td>
+        <td>วี</td>
+        <td><img src="https://i.pinimg.com/originals/a5/b9/ae/a5b9aea7aa60f55329c2eee88e23769d.jpg" width="100px"></td>
+        <td><a href="https://twitter.com/bts_twt?s=21">twitter</a></td>
         <tr>
         <td>2</td>
         <td>kim jennie</td>
@@ -37,10 +37,10 @@
         <td><a href="https://twitter.com/BLACKPINK">twitter</a></td>
         <tr>
         <td>5</td>
-        <td>อี จี อึน</td>
-        <td>IU</td>
-        <td><img src="https://obs.line-scdn.net/0hsd3KKrn1LEsOMgSTeJxTHDRkLyQ9Xj9IagR9SFJccn93UTwbYQNrfiI0cH4mA2sVYAZlLC0xN3pwVThNMQBr/w644" width="100px"></td>
-        <td><a href="https://twitter.com/_iuofficial">twitter</a></td>
+        <td>Pack Jimin</td>
+        <td>Jimin</td>
+        <td><a href="https://i.pinimg.com/564x/7e/3b/0c/7e3b0c3bfb79e5ca7de14174a7a2ea84.jpg" width="100px"></td>
+        <td><a href="https://twitter.com/bts_twt?s=21">twitter</a></td>
         <tr>
         <td>6</td>
         <td>bea joo hyun</td>
