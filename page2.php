@@ -7,20 +7,18 @@
 				height: 350px;
 			}
 			.box{
-				background-color: lightblue;
+				background-color: blue;
 			}
-                        body{
-                                background-color: pink;
+			body{
+                                background-color: lightpink;
 			}
-                        h1{
-                                color: yellow;
-			}
+			h1{
+				color: yellow;      
 		</style>
 	</head>
 	<body>
 		<div id="box1" class="box">
-			<h1> น.ส.ปาริตา ทะปา เลขที่ 20 ม.4/13</h1>
+			<h1>นางสาวปาริตา ทะปา ชั้น 4/13 เลขที่ 20</h1>
 		</div>
 	</body>
 </html>
-	
