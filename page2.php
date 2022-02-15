@@ -10,10 +10,10 @@
 				background-color: lightblue;
 			}
                         body{
-                                background-color: Blue;
+                                background-color: pink;
 			}
                         h1{
-                                color: green;
+                                color: yellow;
 			}
 		</style>
 	</head>
