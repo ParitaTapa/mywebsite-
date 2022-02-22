@@ -6,11 +6,11 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url("DM Weekend Regular.ttf")
+      src: url("DM Weekend Regular (1).woff")
     }
     @font-face{
       font-family: myFont2;
-      src: url("smile Regular.ttf")
+      src: url("smile Regular (1).woff")
     }
     #font1{
 	font-family: myFont1; 
