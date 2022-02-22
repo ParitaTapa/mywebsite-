@@ -24,8 +24,3 @@
   <h1 id="font2">นางสาวปาริตา ทะปา ม.4/13 เลขที่ 20 เลขประจำตัว 57033</h1>
 </body>
 </html>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Statu
