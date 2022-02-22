@@ -6,20 +6,24 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(smile Regular.ttf)
-     @font-face{
-      font-family: myFont2;
       src: url(DM Weekend Regular.ttf)
     }
-     @font-face{
-      font-family: myFont1;
-       @font-face{
+    @font-face{
       font-family: myFont2;
+      src: url(smile Regular.ttf)
+    }
+    #font1{
+	font-family: myFont1;    
+    }
   </style>
 </head>
 <body>
-  <h1> id="font1">นางสาวปาริตา ทะปา ม.4/13 เลขที่20</h1>
-  <h2> id="font2">นางสาวปาริตา ทะปา ม.4/13 เลขที่20</h2>
+  <h1 id="font1">นางสาวปาริตา ทะปา ม.4/13 เลขที่ 20 เลขประจำตัว 57033</h1>
+  <h1 id="font2">นางสาวปาริตา ทะปา ม.4/13 เลขที่ 20 เลขประจำตัว 57033</h1>
 </body>
 </html>
-f0nt.com
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Statu
