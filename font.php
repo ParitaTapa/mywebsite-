@@ -13,7 +13,8 @@
       src: url("smile Regular (1).woff")
     }
     #font1{
-	font-family: myFont1; 
+	    font-family: myFont1; 
+	  }
     #font2{
 	font-family: myFont2;    
     }
