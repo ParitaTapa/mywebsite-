@@ -14,7 +14,7 @@
     }
     #font1{
 	font-family: myFont1; 
-    #font1{
+    #font2{
 	font-family: myFont2;    
     }
   </style>
